@@ -1,0 +1,12 @@
+﻿  main.cpp
+CL : warning : the compiler may not be C++11 compliant. __cplusplus version is : 199711L
+C:\Users\Computing\Desktop\MAP\main.cpp(131): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Computing\Desktop\MAP\main.cpp(131): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Computing\Desktop\MAP\main.cpp(204): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(205): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(683): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(692): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(695): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(705): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Computing\Desktop\MAP\main.cpp(707): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  myAwesomeProgram.vcxproj -> C:\Users\Computing\Desktop\MAP\build\bin\myAwesomeProgram.exe
